@@ -83,9 +83,7 @@ background: #F78065;
     gap: 41px;
     margin-left:119px ;
 }
-.container1{
-    
-}
+
 .text{
     margin-top: 80px;
     width: 386px;
@@ -288,7 +286,7 @@ color: #F78065;
     gap: 49px;
 }
 .middle5{
-    display: ;
+    /* display: ; */
     width: 1510px;
 height: 575px;
 background-color: #F7F7F7;
